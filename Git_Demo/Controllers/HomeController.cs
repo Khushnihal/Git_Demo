@@ -7,6 +7,7 @@ namespace Git_Demo.Controllers
     public class HomeController : Controller
     {
         // First GitHub Test
+        // This comment added from GitHub
 
         private readonly ILogger<HomeController> _logger;
 
